@@ -5,14 +5,11 @@ Yes, just another repository for dumping LeetCode problem solutions.
 Solutions are organized by practice day, following this format:
 
 ```
-├── Day 1 - YYYY-MM-DD
-│   ├── problem-name-id
-│   │   ├── rust/  # Solution in Rust
-│   │   ├── python/  # Solution in Python
-│   │   ├── README.md  # Link to the problem on LeetCode
+├── id-problem-name
+│   ├── rust/  # Solution in Rust
+│   ├── python/  # Solution in Python
+│   ├── README.md  # Link to the problem on LeetCode
 ```
-
-Each day folder contains one or more problems solved on that date.
 
 Each problem folder includes implementations in Rust and Python;
 
